@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Build directories
+/dist/
+/build/
+
+# Package lock file
+/package-lock.json
+
+# Logs
+logs/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
